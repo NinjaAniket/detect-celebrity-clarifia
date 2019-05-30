@@ -11,7 +11,7 @@ const SearchBar = ({ onInputChange, onFormSubmit, value }) => {
             onChange={onInputChange}
             className="prompt"
             type="text"
-            placeholder="Enter Url Here..."
+            placeholder="Enter Celebrity Image Url here..."
           />
           <i className="search icon" />
         </div>
