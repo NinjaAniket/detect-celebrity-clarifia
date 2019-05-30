@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/detect-celebrity-clarifia/static/css/main.b733af07.chunk.css",
+    "main.js": "/detect-celebrity-clarifia/static/js/main.091c1b4d.chunk.js",
+    "main.js.map": "/detect-celebrity-clarifia/static/js/main.091c1b4d.chunk.js.map",
+    "runtime~main.js": "/detect-celebrity-clarifia/static/js/runtime~main.907a239f.js",
+    "runtime~main.js.map": "/detect-celebrity-clarifia/static/js/runtime~main.907a239f.js.map",
+    "static/js/2.afbb6a85.chunk.js": "/detect-celebrity-clarifia/static/js/2.afbb6a85.chunk.js",
+    "static/js/2.afbb6a85.chunk.js.map": "/detect-celebrity-clarifia/static/js/2.afbb6a85.chunk.js.map",
+    "index.html": "/detect-celebrity-clarifia/index.html",
+    "precache-manifest.16cef82823fe7b3d4318716f7c72c118.js": "/detect-celebrity-clarifia/precache-manifest.16cef82823fe7b3d4318716f7c72c118.js",
+    "service-worker.js": "/detect-celebrity-clarifia/service-worker.js",
+    "static/css/main.b733af07.chunk.css.map": "/detect-celebrity-clarifia/static/css/main.b733af07.chunk.css.map"
+  }
+}
