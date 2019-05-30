@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/detect-celebrity-clarifia/precache-manifest.16cef82823fe7b3d4318716f7c72c118.js"
+  "/detect-celebrity-clarifia/precache-manifest.ddab0a27349f524d76ded5c843faa3f9.js"
 );
 
 self.addEventListener('message', (event) => {
